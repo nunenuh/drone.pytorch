@@ -1,1 +1,1 @@
-# semantic_drone.pytorch
+# drone.pytorch
